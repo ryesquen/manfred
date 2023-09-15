@@ -1,0 +1,233 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Renzo",
+      "surnames": "Yesquén Herrera",
+      "title": "Desarrollador Fullstack aunque más creo que ahora quiero front!!!",
+      "description": "soy Renzo, me encanta desarrollar y me 'enamora' saber que con tecnología se pueden hacer las cosas posible",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJxz7uGfbFBZERSi5FzLlsIBQ)",
+        "country": "Perú",
+        "region": "Callao",
+        "municipality": "Lima"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "IP Noticias"
+        },
+        "roles": [
+          {
+            "name": "Fullstack Developer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Dar soporte a incidencias de la plataforma y desarrollar nuevas funcionalidades de acuerdo a \nla necesidad de los clientes finales, la plataforma funciona para Colombia y Perú y brinda \ninformación de todos los medios de información (tv, radio, redes sociales, medios impresos)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ACL"
+        },
+        "roles": [
+          {
+            "name": "Fullstack Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "Dar soporte a incidencias de la plataforma y desarrollar nuevas funcionalidades de acuerdo a \nla necesidad de los clientes finales, la plataforma funciona para Colombia y Perú y brinda \ninformación de todos los medios de información (tv, radio, redes sociales, medios impresos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Neoris"
+        },
+        "roles": [
+          {
+            "name": "Analista Desarrollador",
+            "startDate": "2021-04-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Se desarrolló una app para controlar el movimiento en la planta de cemento de los distintos \ncamiones que pasan a dejar material, para lo cual se desarrolló un dashboard en tiempo real \nalimentado de una base de datos de mongoDB la cual se cargaba con reconocimiento de \nimágenes cámaras que tomaban distintas fotos, asimismo cuenta con módulos de\nmantenimientos y algunos reportes más en powerBI embebidos en la app de angular.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ADO.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dapper",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Transact-SQL (T-SQL)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://github.com/ryesquen",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ryesquen@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "937230942",
+          "countryCode": "+51"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "un empleo en el cual me de cuenta que puedo lograr algo siempre algo más"
+  }
+}
