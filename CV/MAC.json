@@ -160,6 +160,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Stefanini",
+          "URL": "https://stefanini.com/es"
+        },
+        "roles": [
+          {
+            "name": "Analista desarrollador .NET",
+            "startDate": "2019-10-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "Una aplicación web y una aplicación móvil, ambas para la gestión de las cuentas individuales de sus clientes, desde la creación de un cliente, su pre evaluación y evaluación hasta generar la aprobación y luego el desembolso del préstamo."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
