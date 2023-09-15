@@ -69,6 +69,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Canvia",
+          "URL": "https://www.canvia.com/"
+        },
+        "roles": [
+          {
+            "name": "Analista .NET",
+            "startDate": "2020-12-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Migrar los módulos desarrollados con CosmosDB hacia MongoDB para lo cualse\ndesarrollarían componentes .NET que cubran las funcionalidades completas.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Azure CosmosDB",
+                "type": "technology"
+              },
+              {
+                "name": "Entity",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
